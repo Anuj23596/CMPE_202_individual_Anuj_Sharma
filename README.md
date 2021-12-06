@@ -14,6 +14,10 @@
 - java Main <DataSet FilePath>
   
   
+ ##Class Diagram
+  <img width="705" alt="class_diagram" src="https://user-images.githubusercontent.com/78409711/144803814-5e5d56e7-2f81-43e7-82e8-a2b5c9f756f0.png">
+
+  
 ## Design patterns
   
   1 . Singleton : This design pattern  limits a class's instantiation of the class to a "single" instance. This is beneficial when only one object is required to coordinate system-wide actions. I used singleton class for my database.
