@@ -17,6 +17,8 @@
 ## Design patterns
   
   1 . Singleton : This design pattern  limits a class's instantiation of the class to a "single" instance. This is beneficial when only one object is required to coordinate system-wide actions. I used singleton class for my database.
+  
+  
   2. Factory  :  This design pattern is used when a  class cannot anticipate the type of objects it needs to create beforehand. A class requires its subclasses to specify the objects it creates . 
   
   3. Strategy :  To choose what type of output file will be generated.
